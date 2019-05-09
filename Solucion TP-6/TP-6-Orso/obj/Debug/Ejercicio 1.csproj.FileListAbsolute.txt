@@ -1,0 +1,7 @@
+C:\Users\Alumno\Desktop\Orso\tp-nro6-AugustoOrso\Solucion TP-6\TP-6-Orso\bin\Debug\TP-6-Orso.exe.config
+C:\Users\Alumno\Desktop\Orso\tp-nro6-AugustoOrso\Solucion TP-6\TP-6-Orso\bin\Debug\TP-6-Orso.exe
+C:\Users\Alumno\Desktop\Orso\tp-nro6-AugustoOrso\Solucion TP-6\TP-6-Orso\bin\Debug\TP-6-Orso.pdb
+C:\Users\Alumno\Desktop\Orso\tp-nro6-AugustoOrso\Solucion TP-6\TP-6-Orso\obj\Debug\Ejercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\Orso\tp-nro6-AugustoOrso\Solucion TP-6\TP-6-Orso\obj\Debug\TP-6-Orso.exe
+C:\Users\Alumno\Desktop\Orso\tp-nro6-AugustoOrso\Solucion TP-6\TP-6-Orso\obj\Debug\TP-6-Orso.pdb
+C:\Users\Alumno\Desktop\Orso\tp-nro6-AugustoOrso\Solucion TP-6\TP-6-Orso\obj\Debug\Ejercicio 1.csprojAssemblyReference.cache
